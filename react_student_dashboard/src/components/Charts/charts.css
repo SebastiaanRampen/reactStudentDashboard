@@ -1,0 +1,58 @@
+.chartData .chartField {
+  background-color: white;
+}
+.chartData .barChart:hover {
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+.chartData .row {
+  padding: 2vw;
+  margin-top: 0vw;
+  margin-bottom: 0vw;
+  background-color: moccasin;
+}
+.chartData #average {
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+}
+.chartData #names {
+  padding-bottom: 0;
+}
+.chartData #sort {
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+}
+.chartData .nameSpan {
+  width: 120px;
+}
+.chartData .assignmentRating {
+  width: 150px;
+  display: inline-block;
+}
+.chartData .showData {
+  width: 110px;
+  display: inline-block;
+}
+.chartData .sortData {
+  width: 160px;
+  display: inline-block;
+}
+.chartData .sortData1 {
+  width: 180px;
+  display: inline-block;
+}
+.chartData .sortData2 {
+  width: 150px;
+  display: inline-block;
+}
+.chartData .sortData3 {
+  width: 130px;
+  display: inline-block;
+}
+.chartData i {
+  color: blue;
+}
+.chartData i:hover {
+  color: cadetblue;
+  cursor: pointer;
+} /*# sourceMappingURL=charts.css.map */

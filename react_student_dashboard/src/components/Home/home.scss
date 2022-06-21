@@ -1,0 +1,46 @@
+.logo {
+  width: auto;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+
+  .logo-block {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+
+    .navigation-logo {
+      // width: 3.33vw;
+      width: 4vw;
+      max-width: 100%;
+      margin-right: 0.83vw;
+    }
+    .navigation-logo-text {
+      font-family: Brown, Georgia, sans-serif;
+      color: #4f8bc9;
+      // font-size: 1.25vw;
+      font-size: 1.5vw;
+      line-height: 90%;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+    }
+    .TitleText {
+      display: inline-block;
+      margin-left: 2vw;
+      color: black;
+      font-size: 1.5vw;
+      line-height: 90%;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+.logo {
+  width: auto;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+}
+.logo .logo-block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.logo .logo-block .navigation-logo {
+  width: 4vw;
+  max-width: 100%;
+  margin-right: 0.83vw;
+}
+.logo .logo-block .navigation-logo-text {
+  font-family: Brown, Georgia, sans-serif;
+  color: #4f8bc9;
+  font-size: 1.5vw;
+  line-height: 90%;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.logo .logo-block .TitleText {
+  display: inline-block;
+  margin-left: 2vw;
+  color: black;
+  font-size: 1.5vw;
+  line-height: 90%;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}/*# sourceMappingURL=home.css.map */

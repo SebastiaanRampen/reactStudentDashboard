@@ -1,0 +1,71 @@
+.chartData {
+  .chartField {
+    background-color: white;
+  }
+
+  .barChart:hover {
+    cursor: grab;
+  }
+
+  .row {
+    padding: 2vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    background-color: moccasin;
+  }
+
+  #average {
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+  }
+
+  #names {
+    padding-bottom: 0;
+  }
+
+  #sort {
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+  }
+
+  .nameSpan {
+    width: 120px;
+  }
+
+  .assignmentRating {
+    width: 150px;
+    display: inline-block;
+  }
+
+  .showData {
+    width: 110px;
+    display: inline-block;
+  }
+
+  .sortData {
+    width: 160px;
+    display: inline-block;
+  }
+
+  .sortData1 {
+    width: 180px;
+    display: inline-block;
+  }
+  .sortData2 {
+    width: 150px;
+    display: inline-block;
+  }
+  .sortData3 {
+    width: 130px;
+    display: inline-block;
+  }
+
+  i {
+    color: blue;
+  }
+
+  i:hover {
+    color: cadetblue;
+    cursor: pointer;
+  }
+}
